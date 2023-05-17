@@ -1,4 +1,4 @@
-package com.kt.example.testkitmodule
+package com.kt.example.testmodule
 
 interface Vehicle {
     fun move()
