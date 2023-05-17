@@ -51,7 +51,7 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.test_android_kit'
-                artifactId = 'test_android_kit'
+                artifactId = 'second_android_kit'
                 version = '0.0.1'
             }
             // Creates a Maven publication called “debug”.
@@ -60,7 +60,7 @@ afterEvaluate {
                 from components.debug
 
                 groupId = 'com.github.test_android_kit'
-                artifactId = 'test_android_kit'
+                artifactId = 'second_android_kit'
                 version = '0.0.1'
             }
         }
