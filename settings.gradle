@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "TestKitModule"
-include ':app'
+include ':mobilityKit'
